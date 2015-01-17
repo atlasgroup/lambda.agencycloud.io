@@ -1,0 +1,7 @@
+{
+  "name": "preview.lambda.agencycloud.io",
+  "version": "0.0.0",
+  "dependencies": {
+    "socket.io-client": "^1.2.1"
+  }
+}
